@@ -1,3 +1,3 @@
 # using gitBash
 
-new project is created
+new project is created.
